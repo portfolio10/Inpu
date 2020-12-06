@@ -1,0 +1,105 @@
+     table{
+                border-top: 1px solid #444444;
+                border-collapse: collapse;
+                width: 100%;
+                table-layout: fixed;
+        }
+        tr{
+                border-bottom: 1px solid #444444;
+                padding: 10px;
+        }
+        td{
+                border-bottom: 1px solid #efefef;
+                padding: 10px;
+                display: table-cell;
+        }
+        table .even{
+                background: #efefef;
+        }
+        .text{
+                text-align:center;
+                padding-top:20px;
+                color:#000000
+        }
+        .tt{
+                white-space:nowrap;
+                overflow:hidden;
+                text-overflow: ellipsis;
+        }
+        a:link {color : #57A0EE; text-decoration:none;}
+        a:hover { text-decoration : underline;}
+        .view_table {
+                border: 1px solid #444444;
+                margin-top: 30px;
+                }
+                .view_title {
+                height: 30px;
+                text-align: center;
+                background-color: #cccccc;
+                color: white;
+               /* width: 1000px;*/
+                width: 20%;
+                }
+                .view_id {
+                text-align: center;
+                background-color: #EEEEEE;
+                /*width: 30px;*/
+                width: 10%;
+                }
+                .view_id2 {
+                background-color: white;
+                /*width: 60px;*/
+                width: 20%;
+                }
+                .view_hit {
+                background-color: #EEEEEE;
+                /*width: 30px;*/
+                width: 10%;
+                text-align: center;
+                }
+                .view_hit2 {
+                background-color: white;
+                /*width: 60px;*/
+                width: 20%;
+                }
+                .view_content {
+                padding-top: 20px;
+                border-top: 1px solid #444444;
+                height: 500px;
+                }
+                .view_btn {
+                /*width: 700px;*/
+                width: 90%;
+                height: 200px;
+                text-align: center;
+                margin: auto;
+                margin-top: 50px;
+                }
+                .view_btn1 {
+                height: 50px;
+                /*width: 100px;*/
+                width: 30%;
+                font-size: 15px;
+                text-align: center;
+                background-color: white;
+                border: 2px solid black;
+                border-radius: 10px;
+                }
+                .view_comment_input {
+                /*width: 700px;*/
+                width: 10%;
+                height: 500px;
+                text-align: center;
+                margin: auto;
+                }
+                .view_text3 {
+                font-weight: bold;
+                float: left;
+                margin-left: 20px;
+                }
+                .view_com_id {
+                        width: 100px;
+                        }
+                        .view_comment {
+                        width: 500px;
+                        }
